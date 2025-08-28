@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+tips/__init__.py
+tips/__main__.py
+tips/config.py
+tips/editor_launcher.py
+tips/file_manager.py
+tips/main.py
+tips/tracker.py
+tips/utils.py
+tips_cli_tool.egg-info/PKG-INFO
+tips_cli_tool.egg-info/SOURCES.txt
+tips_cli_tool.egg-info/dependency_links.txt
+tips_cli_tool.egg-info/entry_points.txt
+tips_cli_tool.egg-info/requires.txt
+tips_cli_tool.egg-info/top_level.txt

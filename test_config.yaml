@@ -1,0 +1,9 @@
+default_editor: "vscode"
+default_extension: ".md"
+editors:
+  vscode:
+    command: "D:\\AppGallery\\Downloads\\Microsoft VS Code\\bin\\code.cmd"
+    args: ["--wait"]
+  notepad:
+    command: "notepad"
+    args: []
