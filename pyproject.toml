@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tips-cli-tool"
+version = "0.1.2"
+description = "A simple CLI tool for creating temporary notes that are automatically deleted after editing."
+readme = "README.md"
+authors = [{name = "Kevin589981", email = "kevin3627713@gmail.com"}]
+license = "MIT"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "PyYAML",
+]
+requires-python = ">=3.6"
+
+[project.scripts]
+tips = "tips_cli.main:main"
+
+[project.urls]
+Homepage = "https://github.com/Kevin589981/tips-python"
