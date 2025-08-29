@@ -1,6 +1,7 @@
 # Tips CLI Tool
 
 A simple command-line tool for creating temporary notes that are automatically deleted after editing.
+This is the Python implementation of the project and has resolved some bugs that appeared on the Rust version https://github.com/Kevin589981/tips
 
 ## Features
 
